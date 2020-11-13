@@ -1,0 +1,19 @@
+#game div {
+  border: 1px solid blue;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#body {
+  background-color:black;
+}
+
+#title {
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 60px;
+  color: blue;
+  text-align: center;
+  color: pi
+}
